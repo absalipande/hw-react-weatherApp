@@ -29,18 +29,18 @@ body {
   display: flex;
   align-items: center;
   flex-direction: column;
-  margin-top: 80px;
+  margin-top: 30px;
 }
 
 .place {
-  font-size: 90px;
+  font-size: 75px;
   font-weight: 200;
 }
 
 .temperature {
   display: flex;
   margin-top: -70px;
-  font-size: 85px;
+  font-size: 75px;
   font-weight: 200;
   font-size: 90px;
   padding: 10px;
